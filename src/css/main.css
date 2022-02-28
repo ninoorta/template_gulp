@@ -1,0 +1,9 @@
+/**
+   * @param $direction: horizontal vertical both
+   example : @include center(both) || @include center(horizontal) || @include center(vertical)
+   */
+.footer {
+  background-color: black; }
+  @media only screen and (max-width: 992px) {
+    .footer {
+      background-color: #ffffff; } }

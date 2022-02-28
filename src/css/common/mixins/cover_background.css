@@ -1,0 +1,6 @@
+/* ===== Usage ===== */
+div {
+  background-image: url("cute-doggo.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center; }
